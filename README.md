@@ -3,6 +3,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>LinkedIn: https://www.linkedin.com/in/md-elias-mia/ <br/>
-Website: https://www.eliasmia.com/<br/>
+Website: http://www.eliasmia.com/<br/>
 Email: eliasmia1988@gmail.com </p>
 
